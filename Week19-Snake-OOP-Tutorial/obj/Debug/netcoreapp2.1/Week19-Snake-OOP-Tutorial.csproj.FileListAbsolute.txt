@@ -1,0 +1,11 @@
+C:\Users\opilane\source\repos\titpe21\Week19-Snake-OOP-Tutorial\Week19-Snake-OOP-Tutorial\bin\Debug\netcoreapp2.1\Week19-Snake-OOP-Tutorial.deps.json
+C:\Users\opilane\source\repos\titpe21\Week19-Snake-OOP-Tutorial\Week19-Snake-OOP-Tutorial\bin\Debug\netcoreapp2.1\Week19-Snake-OOP-Tutorial.runtimeconfig.json
+C:\Users\opilane\source\repos\titpe21\Week19-Snake-OOP-Tutorial\Week19-Snake-OOP-Tutorial\bin\Debug\netcoreapp2.1\Week19-Snake-OOP-Tutorial.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\titpe21\Week19-Snake-OOP-Tutorial\Week19-Snake-OOP-Tutorial\bin\Debug\netcoreapp2.1\Week19-Snake-OOP-Tutorial.dll
+C:\Users\opilane\source\repos\titpe21\Week19-Snake-OOP-Tutorial\Week19-Snake-OOP-Tutorial\bin\Debug\netcoreapp2.1\Week19-Snake-OOP-Tutorial.pdb
+C:\Users\opilane\source\repos\titpe21\Week19-Snake-OOP-Tutorial\Week19-Snake-OOP-Tutorial\obj\Debug\netcoreapp2.1\Week19-Snake-OOP-Tutorial.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\titpe21\Week19-Snake-OOP-Tutorial\Week19-Snake-OOP-Tutorial\obj\Debug\netcoreapp2.1\Week19-Snake-OOP-Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\titpe21\Week19-Snake-OOP-Tutorial\Week19-Snake-OOP-Tutorial\obj\Debug\netcoreapp2.1\Week19-Snake-OOP-Tutorial.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\titpe21\Week19-Snake-OOP-Tutorial\Week19-Snake-OOP-Tutorial\obj\Debug\netcoreapp2.1\Week19-Snake-OOP-Tutorial.AssemblyInfo.cs
+C:\Users\opilane\source\repos\titpe21\Week19-Snake-OOP-Tutorial\Week19-Snake-OOP-Tutorial\obj\Debug\netcoreapp2.1\Week19-Snake-OOP-Tutorial.dll
+C:\Users\opilane\source\repos\titpe21\Week19-Snake-OOP-Tutorial\Week19-Snake-OOP-Tutorial\obj\Debug\netcoreapp2.1\Week19-Snake-OOP-Tutorial.pdb
